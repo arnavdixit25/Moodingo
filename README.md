@@ -45,7 +45,7 @@ Designed to be **accurate**, **interactive**, and **privacy-focused**, Moodingo 
 ---
 
 ## 🏗️ Project Structure
-
+```
 Moodingo/
 │
 ├── pages/
@@ -62,7 +62,7 @@ Moodingo/
 ├── README.md
 ├── package.json
 └── next.config.js
-
+```
 ---
 
 ## 🧪 Features
